@@ -1,4 +1,3 @@
-theme: minima
 # Max's Portfolio
 
 # [Project 1: Airbnb Analysis](https://github.com/Max-Boonjindasup/airbnb_analysis/tree/main)
