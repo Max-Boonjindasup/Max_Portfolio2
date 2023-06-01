@@ -3,5 +3,5 @@
 * Employed 5 different regression models and achieved a 99% accuracy in predicting geographic location based on pricing information, enabling actionable insights into targeting new clients and optimizing market strategies.
 * Created an effective model that provides actionable insights into targeting new clients and optimizing market strategies.
 
-![](images/pie_listings_by_borough_4.png)
+![](images/pie_listings_by_borough_5.png)
 ![](images/highest_revenue_room_type_3.png)
